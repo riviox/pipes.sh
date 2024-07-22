@@ -2,3 +2,4 @@ exec=sudo make install
 name=pipes.sh
 desc=Animated pipes terminal screensaver | original by @Pipeseroni 
 clear=true
+deps=none
